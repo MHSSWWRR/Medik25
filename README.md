@@ -27,8 +27,8 @@ Sistem ini bertujuan untuk membantu pengguna dalam mengenali gejala-gejala ISPA 
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/estehangat/projeksispak.git
-   cd projeksispak
+   git clone https://github.com/estehangat/projeksispak.git](https://github.com/MHSSWWRR/Medik25.git
+   cd Medik25
    ```
 
 2. **Install Dependencies (PHP via Composer)**
